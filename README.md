@@ -172,7 +172,7 @@ This project is open source and available under the [MIT License](LICENSE).
 If you have any questions or need help customizing the portfolio, feel free to:
 - Open an issue on GitHub
 - Contact me via the portfolio contact form
-- Send an email to your-email@example.com
+- Send an email to your-meetv8540@gmail.com
 
 ## 🎉 Acknowledgments
 
